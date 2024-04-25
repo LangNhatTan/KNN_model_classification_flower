@@ -13,9 +13,9 @@
 # Note
 + You should setting the path before running the code.
 # Setting and run the code
-+ Step 1: Download file KNN_Model_code.ipynb.
++ Step 1: Download file <b>KNN_Model_code.ipynb</b>.
 + Step 2: Open Google Colab and push file code and dataset in Google Colab.
-+ Step 3: Run file KNN_Model_code.ipynb.
++ Step 3: Run file <b>KNN_Model_code.ipynb</b>.
 # Screenshots
 Predicting result Iris flower (Implemment KNN).
 
